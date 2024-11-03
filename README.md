@@ -40,7 +40,8 @@ we empeded emooji translator and story teller that might blow yout might blow yo
 story to daily expression
 ![Screenshot3]https://github.com/Mohilc/useless-project/blob/main/Screenshot%202024-11-03%20051758.png
 covert your emotion to words
-
+# demo video 
+https://github.com/Mohilc/Team_Protein/blob/main/WhatsApp%20Video%202024-11-03%20at%2007.23.01_8e54f870.mp4
 
 
 ## Team Contributions
